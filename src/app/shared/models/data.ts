@@ -1,6 +1,6 @@
 export interface PeriodicElement {
-    name: string;
     gender: string;
+    name: string;
     email: string;
     image: string;
   }
